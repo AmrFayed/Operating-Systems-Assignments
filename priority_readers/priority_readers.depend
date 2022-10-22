@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666467279 source:c:\users\sonya\desktop\os\priority_readers\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
